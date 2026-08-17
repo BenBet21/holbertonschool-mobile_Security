@@ -1,0 +1,3 @@
+# Dynamic Analysis in Mobile Security
+
+This project explores dynamic analysis techniques for mobile applications (Android/iOS), focusing on runtime behavior inspection rather than static code review. It covers instrumentation with tools like Frida, network traffic interception (Burp/mitmproxy), and sandboxed emulator execution to observe API calls, data leaks, and permission abuse. The goal is to identify malicious or vulnerable behaviors that only manifest during actual app execution. Typical use cases include malware triage, penetration testing, and privacy auditing of third-party apps. Contributions and lab writeups are welcome via pull request.
